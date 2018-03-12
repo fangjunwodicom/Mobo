@@ -132,20 +132,34 @@
 #### 8.2 表格的书写</br>
 例子</br>
      `<table width="40%" height="0px" boder="0" bgcolor="#ffffff" cellspacing="0px" cellpadding=""0px align="center">`
+     
      ```<caption>我喜欢的歌曲</caption>
     <thead>
+    
 	    <tr><th>歌名</th><th>作者</th></tr>
+	    
      </thead>
+     
 	 <tbody>
+	 
 	    <tr><td>光辉岁月</td><td>Beyond</td></tr>
+	    
 	    <tr><td>红豆</td><td>王菲</td></tr>
+	    
 	    <tr><td>我只在乎你</td><td>邓丽君</td></tr>
+	    
 	    <tr><td>倩女幽魂</td><td rowspan="2">张国荣</td></tr>
+	    
 	    <tr><td>有谁共鸣</td></tr>
+	    
 	 </tbody>
+	 
      <tfoot>
+     
 	    <tr><td colspan="2">现在总计：5首歌曲</td></tr>
+	    
 	 </tfoot>
+	 
      </table>```
 + 上面两段代码是放在一起的</br>
 + html的表格制作略显繁琐，还是Markdown Pad好些。
