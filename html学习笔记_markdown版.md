@@ -105,7 +105,7 @@
      ```<img src="./ppp/happy.jpg"alt="baidu">```
 效果如下：
      
-     <img src="./ppp/happy.jpg"alt="baidu"/>
+<img src="./ppp/happy.jpg" alt="baidu"/>
 
 #### 7.2 链接的插入 </br>
 例如：
@@ -151,7 +151,7 @@
 + html的表格制作略显繁琐，还是Markdown Pad好些。
 效果图如下：</br>
 
-<img src="./ppp/table1.png"alt="我喜欢的音乐" >
+<img src="./ppp/table1.png" alt="我喜欢的音乐" >
 
 + Markdown里面没法对图片进行居中。
 
