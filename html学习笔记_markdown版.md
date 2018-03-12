@@ -113,12 +113,19 @@
 ###8 表格标签的使用[<sup>目录</sup>](#content)</br>
 ####8.1 表格的相关元素
 `<table>`-用于定义表格
+
     `<tr>`-定义表格的“行”，该元素只能包括td或者th两种元素
+    
     `<td>`-定义单元格，包括两个主要的属性：colspan-制定单元格跨多少列，rowspan-制定单元格可横跨的行数。
+    
 	`<caption>`-用于定义表格标题
+	
 	`<tbody>`-用于定义表格的主体
+	
 	`<thead>`-用于定义表格头
+	
 	`<tfoot>`-用于定义表格脚
+	
 ####8.2 表格的书写</br>
 例子</br>
      `<table width="40%" height="0px" boder="0" bgcolor="#ffffff" cellspacing="0px" cellpadding=""0px align="center">`
