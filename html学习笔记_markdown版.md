@@ -96,7 +96,7 @@
 	  <p><bdo dir="rtl">豪哥帅</bdo></p>
 反向效果：
    
-  <a href="http://www.baidu.com.cn" target="_blank"><img src="./ppp/headsome.png"alt="帅哥豪"></a>
+  <a href="http://www.baidu.com.cn" target="_blank"><img src="./ppp/headsome.PNG"alt="帅哥豪"></a>
 
 ### 7 图片和链接的插入[<sup>目录</sup>](#content)
 
