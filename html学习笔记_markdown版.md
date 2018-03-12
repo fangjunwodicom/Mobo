@@ -120,7 +120,7 @@
 	`<thead>`-用于定义表格头
 	`<tfoot>`-用于定义表格脚
 ####8.2 表格的书写</br>
-例子
+例子</br>
      `<table width="40%" height="0px" boder="0" bgcolor="#ffffff" cellspacing="0px" cellpadding=""0px align="center">`
      ```<caption>我喜欢的歌曲</caption>
     <thead>
@@ -158,12 +158,12 @@ botton标签是一个按钮标签，在标签内写文字只是按钮上的文�
 `<br/>`标签在html中还是比较常见的，使用该标签可以使得在一个`<p>`标签里面完成多行文本的书写。
 ####9.4 上标下标标签</br>
 `<sup>,<sub>`分别是上标和下标</br>
-例子：`H<sub>2</sub>O   跟 O<sup>2-</sup>`
+例子：`H<sub>2</sub>O   跟 O<sup>2-</sup>`</br>
 效果：H<sub>2</sub>O   跟 O<sup>2-</sup>
 
 ####9.5 html中的空格跟商标</br>
 `&nbsp;跟&copy;`分别表示空格，跟版权</br>
-例如&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&copy;版权所有
+例如</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&copy;版权所有</br>
 上述例子有10个空格和一个版权符号组成。
 
 
