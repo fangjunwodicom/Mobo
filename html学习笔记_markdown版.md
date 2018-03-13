@@ -29,7 +29,7 @@
 
 7.超链接、图片以及特殊符号的使用
 
-### 1 <a name="head">块级标签[<sup>目录</sup>](#content)<br/>
+### 1 块级标签[<sup>目录</sup>](#content)<br/>
       ```<!doctype html>
       <html>
       <head>
@@ -55,7 +55,7 @@
       <li>使用有序列表符号ol和列表符号li编写</li>
 	  <li>记得要写上“<>”的符号</li>
       </ol>
-### 3 无序列表的写法	[<sup>目录</sup>](#content)</br>
+### 3 <a name="emphasize">无序列表的写法[<sup>目录</sup>](#content)</a></br>
 例如：
 	 
 	 <ul>
