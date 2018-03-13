@@ -4,15 +4,15 @@
 <a name="content"><h2>目录</h2></a>
                  
 [学习html标签语言](#title)
-   - [1. 块级标签](#head)
-   - [2. 有序列表的写法](#emphasize)
-   - [3. 无序标签的写法](#list)
-   - [4. 定义描述标签的写法](#block-quote)
-   - [5. 分区标签语法的写法](#link-image)
-   - [6. 常用的行级标签的用法](#table)
-   - [7. 图片和链接的插入](#code)
-   - [8. 表格标签的使用](#splitter)
-   - [9. 其他标签的使用](#construct-content)
+ + [1. 块级标签](#head)
+ + [2. 有序列表的写法](#emphasize)
+ + [3. 无序标签的写法](#list)
+ + [4. 定义描述标签的写法](#block-quote)
+ + [5. 分区标签语法的写法](#link-image)
+ + [6. 常用的行级标签的用法](#table)
+ + [7. 图片和链接的插入](#code)
+ + [8. 表格标签的使用](#splitter)
+ + [9. 其他标签的使用](#construct-content)
 
 ## 主要内容
 1.块级标签
