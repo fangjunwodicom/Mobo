@@ -4,9 +4,9 @@
 <a name="content"><h2>目录</h2></a>
                  
 [学习html标签语言](#title)
-  - [1. 有序列表的写法](#head)
-  - [2. 无序列表的写法](#emphasize)
-  - [3. 定义描述标签的写法](#list)
+  - [1. 块级标签](#head)
+  - [2. 有序列表的写法](#emphasize)
+  - [3. 无序标签的写法](#list)
   - [4. 定义描述标签的写法](#block-quote)
   - [5. 分区标签语法的写法](#link-image)
   - [6. 常用的行级标签的用法](#table)
@@ -29,7 +29,7 @@
 
 7.超链接、图片以及特殊符号的使用
 
-### 1 块级标签[<sup>目录</sup>](#content)<br/>
+### 1 <a name="head">块级标签[<sup>目录</sup>](#content)</a><br/>
       ```<!doctype html>
       <html>
       <head>
@@ -48,21 +48,21 @@
 
 + 这个是html的大框架，包括html，head，body，还有最开始的引用（HTML5版本对此要求不严）</br>
 
-### 2 有序列表的写法[<sup>目录</sup>](#content)</br>
+### 2 <a name="emphasize">有序列表的写法[<sup>目录</sup>](#content)</br></a>
 例如：
 
 	  <ol>
       <li>使用有序列表符号ol和列表符号li编写</li>
 	  <li>记得要写上“<>”的符号</li>
       </ol>
-### 3 <a name="emphasize">无序列表的写法[<sup>目录</sup>](#content)</a></br>
+### 3 <a name="list">无序列表的写法[<sup>目录</sup>](#content)</a></br>
 例如：
 	 
 	 <ul>
 	 <li>首先使用无序列表符号ul和列表符号li编写</li>
 	 <li>然后也要记得写上“<>”的符号</li>
 	 </ul>
-### 4 定义描述标签的写法[<sup>目录</sup>](#content)</br>
+### 4 <a name="block-quote">定义描述标签的写法[<sup>目录</sup>](#content)</a></br>
 例如：
 
       <dl>
@@ -74,7 +74,7 @@
 		  <dd>符号：O<sup>2</sup></dd>
 		  <dd>人呼吸之必须物质</dd>
       </dl>
-### 5 分区标签语法的写法[<sup>目录</sup>](#content)</br>
+### 5 <a name="link-image">分区标签语法的写法[<sup>目录</sup>](#content)</a></br>
 + 使用div标签开头和结尾
 + 在书写开头的div标签时候可以加入id=“what”来对该分区进行命名</br>
 
@@ -86,7 +86,7 @@
 
 + `<div>`标签的使用我没有精学，等到用的上的时候，再做详细介绍。
 
-### 6 常用的行级标签的用法[<sup>目录</sup>](#content)</br>
+### 6 <a name="table">常用的行级标签的用法[<sup>目录</sup>](#content)<>/a</br>
 
 定义粗体文本——`<b>`<br/>
 定义斜体文本——`<i>`<br/>
@@ -104,9 +104,9 @@
    
   <a href="http://www.baidu.com.cn" target="_blank"><img src="./ppp/headsome.PNG" alt="帅哥豪"></a>
 
-### 7 图片和链接的插入[<sup>目录</sup>](#content)
+### 7 <a name="code">图片和链接的插入[<sup>目录</sup>](#content)</a></br>
 
-#### 7.1 图片的插入   </br>
+#### 7.1 图片的插入   
 例如：
      ```<img src="./ppp/happy.jpg"alt="baidu">```
 效果如下：
@@ -119,7 +119,7 @@
 
 链接效果：<a href="http://www.baidu.com.cn" target="_blank">baidu</a>
 
-### 8 表格标签的使用[<sup>目录</sup>](#content)</br>
+### 8 <a name="splitter">表格标签的使用[<sup>目录</sup>](#content)</a></br>
 #### 8.1 表格的相关元素
 `<table>`-用于定义表格
 
@@ -176,7 +176,7 @@
 + Markdown里面没法对图片进行居中。
 
 
-### 9 其他标签的使用[<sup>目录</sup>](#content)</br>
+### 9 <a name="construct-content">其他标签的使用[<sup>目录</sup>](#content)</a></br>
 #### 9.1 botton标签的使用</br>
 botton标签是一个按钮标签，在标签内写文字只是按钮上的文字，没有什么作用，所以botton标签需要安装在其他的标签之内，<br/>比如链接标签。
 	 
