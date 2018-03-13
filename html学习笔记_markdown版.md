@@ -29,7 +29,7 @@
 
 7.超链接、图片以及特殊符号的使用
 
-### 1 块级标签[<sup>目录</sup>](#content)<br/>
+### 1 <a name="head">块级标签[<sup>目录</sup>](#content)<br/>
       ```<!doctype html>
       <html>
       <head>
