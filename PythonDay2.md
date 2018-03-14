@@ -406,6 +406,7 @@ Python 数字数据类型用于存储数值。<br/>
 <img src="./ppp/Pythonday2_3.JPG">
 
 ##2.Python 三角函数
+
 <img src="./ppp/Pythonday2_4.JPG">
 
 ##2.Python 数字常量
