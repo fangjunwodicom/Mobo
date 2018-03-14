@@ -314,7 +314,7 @@ is not 是判断两个标识符是不是引用自不同对象
 
 ##7.&nbsp;&nbsp;运算符优先级
 
-<img src="./ppp/Pythonday2_1.jpg">
+<img src="./ppp/Pythonday2_1.JPG">
 
 实例：
 ```
@@ -397,16 +397,16 @@ Python 数字数据类型用于存储数值。<br/>
 + 复数( (complex)) - 复数由实数部分和虚数部分构成，可以用a + bj,或者complex(a,b)表示， 复数的实部a和虚部b都是浮点型。.
 
 ##2.Python 数字函数
-<img src="./ppp/Pythonday2_2.jpg">
+<img src="./ppp/Pythonday2_2.JPG">
 
 ##3.Python 随机数函数
 
 随机数可以用于数学，游戏，安全等领域中，还经常被嵌入到算法中，用以提高算法效率，并提高程序的安全性。
 
-<img src="./ppp/Pythonday2_3.jpg">
+<img src="./ppp/Pythonday2_3.JPG">
 
 ##2.Python 三角函数
-<img src="./ppp/Pythonday2_4.jpg">
+<img src="./ppp/Pythonday2_4.JPG">
 
 ##2.Python 数字常量
 ```
