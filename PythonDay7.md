@@ -3,7 +3,7 @@
 - Python条件语句是通过一条或多条语句的执行结果（True或者False）来决定执行的代码块。
 - 可以通过下图来简单了解条件语句的执行过程:
 
-<img src="./ppp/Pythonday7_1.jpg">
+<img src="./ppp/Pythonday7_1.JPG">
 
 ##  1.if语句
 
@@ -31,7 +31,7 @@ else:
 
 以下为if中常用的操作运算符:
 
-<img src="./ppp/Pythonday7_2.jpg">
+<img src="./ppp/Pythonday7_2.JPG">
 
 
 实例：
